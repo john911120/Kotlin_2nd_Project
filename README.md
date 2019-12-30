@@ -1,4 +1,4 @@
-# Kotlin_2nd_Project
+# Kotlin_2nd_Project [附&加]
 
 1. 프로젝트 개시일 : 2019년 12월 18일 ~ 2019년 12월 30일 (총 12일)
 2. 사용된 프로그래밍 툴 : Intellij IDEA
